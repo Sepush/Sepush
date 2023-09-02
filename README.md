@@ -14,5 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on FrontEnd
-- 🌱 I’m currently learning Web Develop
+- Sepush is my common Id but hard to pronounce, just call me Artea 
+- Currently working on FrontEnd and learning Web Develop
+- Interested in building user interface
+- Collaborate on [Naïve UI](https://github.com/tusen-ai/naive-ui)
